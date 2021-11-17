@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 this is local file
-=======
+
